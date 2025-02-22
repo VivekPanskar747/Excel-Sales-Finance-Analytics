@@ -13,3 +13,13 @@ Finance Analytics reports are created to evaluate comapany's financial performan
 1) Create A Profit & Loss (P&L) Statement By Fiscal Years.(https://github.com/VivekPanskar747/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Year.pdf)
 2) Create A Profit & Loss (P&L) Statement By Fiscal Months & Quarter wise.(https://github.com/VivekPanskar747/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Month.pdf)
 3) Create A Market Wise Profit & Loss (P&L) Statement.(https://github.com/VivekPanskar747/Excel-Sales-Finance-Analytics/blob/main/Market%20Wise%20P%26L%20Statement.pdf)
+## Technical Skills Gained :
+1) Using Power Query to clean & transform data for actionable insights.
+2) Efficiently using pivot tables to generate different business reports.
+3) Power Pivot to build Data Model and build relationships between tables and create DAX Measures.
+4) Proficiency in ETL Methodology (Extract,Transform,Load).
+5) Derving Fiscal Years through Calender Year.
+## Soft Skills Gained :
+1) Understanding Business Domain and Financial Terms such as Fiscal Year & P&L Statements.
+2) Systematic  Approach to create business report and handling business requirements.
+3) Refined understanding of Sales & Finance Reports.
