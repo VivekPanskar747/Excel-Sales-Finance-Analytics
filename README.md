@@ -6,7 +6,7 @@ AtliQ Hardware is a  global hardware manufacturing company they have expanded th
 Create Various Sales & Finance analytics reports to gain deep insights about AtliQ Customers & Products performance over the years & to improve market conditions in different regions & have better decision making. 
 ## Sales Analytics :
 Sales Analytics reports helps to empower business strategies & monitor sales activites in different countries it also involves comparsion between Market Performance  vs Target Sales over the years.
-1) Create Customer Performance Report.
+1) Create Customer Performance Report.(https://github.com/VivekPanskar747/Excel-Sales-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 2) Conduct a comprehensive comparison between market performance and sales targets.
 ## Finance Analytics :
 Finance Analytics reports are created to evaluate comapany's financial performance with stakeholders  over the years and helps to set target for upcoming fiscal year & improves strategic decision making in financial planning.
