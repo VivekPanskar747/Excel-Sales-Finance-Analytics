@@ -12,4 +12,4 @@ Sales Analytics reports helps to empower business strategies & monitor sales act
 Finance Analytics reports are created to evaluate comapany's financial performance with stakeholders  over the years and helps to set target for upcoming fiscal year & improves strategic decision making in financial planning.
 1) Create A Profit & Loss (P&L) Statement By Fiscal Years.(https://github.com/VivekPanskar747/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Year.pdf)
 2) Create A Profit & Loss (P&L) Statement By Fiscal Months & Quarter wise.(https://github.com/VivekPanskar747/Excel-Sales-Finance-Analytics/blob/main/P%26L%20Statement%20By%20Month.pdf)
-3) Create A Market Wise Profit & Loss (P&L) Statement.
+3) Create A Market Wise Profit & Loss (P&L) Statement.(https://github.com/VivekPanskar747/Excel-Sales-Finance-Analytics/blob/main/Market%20Wise%20P%26L%20Statement.pdf)
